@@ -1,2 +1,3 @@
 GitHub on koodi hostimise platform. Seda saavad kasutada kõik kes on koodimisest huvitatud.
 Saan GitHubi kasutada programmeermis tundides ja kodus programmeerimisega tegelen.
+GitHubi asutasid aastala 2008 4 inimest, Tom Preston Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon ja GitHubi teenus sai saadavaks 2008 veebruaris.
