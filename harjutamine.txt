@@ -1,1 +1,2 @@
 GitHub on koodi hostimise platform. Seda saavad kasutada kõik kes on koodimisest huvitatud.
+Saan GitHubi kasutada programmeermis tundides ja kodus programmeerimisega tegelen.
